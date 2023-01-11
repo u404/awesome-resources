@@ -1,0 +1,3 @@
+- 九种跨域方式实现原理（完整版）：https://www.jianshu.com/p/cedc8b1cd84c
+- 九种跨域方式实现原理（完整版）（备份）：https://zhuanlan.zhihu.com/p/55858103
+- 解决iframe跨域问题：https://zhuanlan.zhihu.com/p/335140487
